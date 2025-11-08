@@ -13,7 +13,13 @@ https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
 http://213.57.91.138:8000/play/a05t
 #EXTINF:-1,Zee alwan eg
 http://213.57.91.138:8000/play/a05u
+
 #EXTINF:-1,Welat TV Krd
 https://stream.badinan.xyz/welat/tv/chunklist_w1608900670.m3u8
 #EXTINF:-1,Rudaw TV Krd
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv_source/chunks.m3u8
+
+#EXTINF:-1,Al Jazeera Arabic
+https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:-1,Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
