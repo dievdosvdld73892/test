@@ -72,14 +72,11 @@ https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriat
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 
 
-#EXTINF:-1 tvg-id="ArabicaTV.lb@SD",Arabica TV (720p)
+#EXTINF:-1,Arabica TV (720p)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 tvg-id="OneTV.lb@SD",One TV (720p)
+#EXTINF:-1,One TV (720p)
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
-#EXTINF:-1 tvg-id="OneFM.lb@SD",OneFM (720p) [Not 24/7]
+#EXTINF:-1,OneFM (720p)
 https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaRadioJordanStudio.jo@SD" group-title="Music",Rotana RadiO
 http://45.63.116.205/hls/stream1.m3u8
-#EXTINF:-1 tvg-id="RotanaClip.sa@SD" group-title="Music" http-referrer="https://rotana.net/",Rotana Clip
-#EXTVLCOPT:http-referrer=https://rotana.net/
-https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
