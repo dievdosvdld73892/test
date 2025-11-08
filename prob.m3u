@@ -1,5 +1,4 @@
 #EXTM3U
-
 # ARABIC ENTERTAINMENT
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC ENTERTAINMENT",MBC 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
@@ -28,6 +27,8 @@ https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC ENTERTAINMENT",One TV
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 
+
+
 # ARABIC MOVIES
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC MOVIES",MBC Bollywood TV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
@@ -53,6 +54,8 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC MOVIES",Rotana Aflam
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/chunks.m3u8?nimblesessionid=456531482&token=demo
 
+
+
 # KURDISH CHANNELS
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KURDISH",Welat TV Org Krd
 https://stream.badinan.xyz/welat/tv/playlist.m3u8
@@ -77,6 +80,8 @@ https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarme
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KURDISH",Rojava TV Krd
 https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
+
+
 
 # ARABIC NEWS
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC NEWS",Al Sharq News
@@ -106,6 +111,8 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC NEWS",NBN
 http://5.9.119.146:8883/nbn/index.m3u8
 
+
+
 # DOCUMENTARY & KNOWLEDGE
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTARY",Alsharq Docu TV
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
@@ -113,12 +120,16 @@ https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTARY",National Geographic Abu Dhabi HD
 http://213.57.91.138:8000/play/a05a
 
+
+
 # SPORTS
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",Alkas 2 Sport
 https://streamer3.qna.org.qa/148164528_live/148164528_296.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",Alkas 4 Sport
 https://streamer3.qna.org.qa/148164621_live/148164621_296.sdp/playlist.m3u8
+
+
 
 # MUSIC & RADIO
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC",Arabica TV
