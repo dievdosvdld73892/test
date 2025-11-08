@@ -78,5 +78,5 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1,OneFM (720p)
 https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaRadioJordanStudio.jo@SD" group-title="Music",Rotana RadiO
+#EXTINF:-1,Rotana RadiO
 http://45.63.116.205/hls/stream1.m3u8
