@@ -18,8 +18,14 @@ http://213.57.91.138:8000/play/a05u
 https://stream.badinan.xyz/welat/tv/chunklist_w1608900670.m3u8
 #EXTINF:-1,Rudaw TV Krd
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv_source/chunks.m3u8
+#EXTINF:-1,Ronahi TV Krd
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
 
 #EXTINF:-1,Al Jazeera Arabic
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1,Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1,Syria TV
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks_dvr.m3u8
+#EXTINF:-1,Syria TV 2
+https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
