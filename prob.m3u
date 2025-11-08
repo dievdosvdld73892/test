@@ -1,7 +1,7 @@
 #EXTM3U
 
 # ARABIC_ENTERTAINMENT
-#EXTINF:-1 group-title="ARABIC_ENTERTAINMENT", MBC 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mgXeEE4.png" group-title="ARABIC_ENTERTAINMENT",MBC1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
 
 #EXTINF:-1 group-title="ARABIC_ENTERTAINMENT",MBC Masr
