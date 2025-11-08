@@ -69,6 +69,9 @@ https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriat
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:-1,Alaraby 2
 https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
+#EXTINF:-1, rt arabic
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+
 
 #EXTINF:-1,Alsharq Docu TV 
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
@@ -80,6 +83,8 @@ https://streamer3.qna.org.qa/148164621_live/148164621_296.sdp/playlist.m3u8
 
 #EXTINF:-1,Arabica TV (720p)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1,Arabica TV bu
+http://istream.binarywaves.com:8081/hls/arabica/arabicatv_1080/index.m3u8
 #EXTINF:-1,One TV (720p)
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1,OneFM (720p)
