@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,MBC Bollywood TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/manifest/video/1080p2400kbps/video.m3u8
 #EXTINF:-1,MBC Masr USA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
 #EXTINF:-1,Zee Action (576p)
@@ -15,7 +17,3 @@ http://213.57.91.138:8000/play/a05u
 https://stream.badinan.xyz/welat/tv/chunklist_w1608900670.m3u8
 #EXTINF:-1,Rudaw TV Krd
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv_source/chunks.m3u8
-#EXTINF:-1,MBC Bollywood (1080p) [Geo-blocked] 
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8 
-#EXTINF:-1,MBC Bollywood (1080p) 
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
