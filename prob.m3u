@@ -75,7 +75,7 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 
 #EXTINF:-1,Alsharq Docu TV 
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae@HD" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="Documentary",National Geographic Abu Dhabi HD
+#EXTINF:-1,National Geographic Abu Dhabi HD
 http://213.57.91.138:8000/play/a05a
 
 #EXTINF:-1,Alkas 2 sport
@@ -106,4 +106,8 @@ https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://rotana.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
-
+#EXTINF:-1,Rotana Classic SD
+https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/rotanazaman/playlist.m3u8
+#EXTINF:-1,Rotana Clip SD
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
