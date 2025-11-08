@@ -11,3 +11,7 @@ https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
 http://213.57.91.138:8000/play/a05t
 #EXTINF:-1,Zee alwan eg
 http://213.57.91.138:8000/play/a05u
+#EXTINF:-1,MBC Bollywood (1080p) [Geo-blocked] 
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8 
+#EXTINF:-1,MBC Bollywood (1080p) 
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
