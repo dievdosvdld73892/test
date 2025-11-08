@@ -13,6 +13,8 @@ https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
 http://213.57.91.138:8000/play/a05t
 #EXTINF:-1,Zee alwan eg
 http://213.57.91.138:8000/play/a05u
+#EXTINF:-1,MTV Lib
+https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 
 #EXTINF:-1,Welat TV Krd
 https://stream.badinan.xyz/welat/tv/chunklist_w1608900670.m3u8
