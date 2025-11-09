@@ -1,5 +1,4 @@
 #EXTM3U
-
 # ARABIC_MOVIES
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="ARABIC_MOVIES",MBC1
 http://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
@@ -148,6 +147,6 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 http://d3s7x6kmqcnb6b.cloudfront.net/hls/T3HG3IA/5D8B7480E503/m.m3u8
 
 #Movies
-#EXTINF:-1 tvg-name="name" tvg-logo="" group-title="MOVIE CATEGORY", TEST NAME
+#EXTINF:-1,[REC] (2007) (Horror; Mystery; Thriller) tvg-name="REC (2007)",
 http://ww.supercartoons.net/the-pink-panther/yankee-doodle-pink.mp4
 
