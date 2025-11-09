@@ -147,6 +147,6 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 http://d3s7x6kmqcnb6b.cloudfront.net/hls/T3HG3IA/5D8B7480E503/m.m3u8
 
 #Movies
-#EXTINF:-1 tvg-id="" tvg-logo="http://example.com/pinkpanther.jpg" group-title="Movies",Yankee Doodle Pink
+#EXTINF:0 tvg-id="" tvg-logo="http://example.com/pinkpanther.jpg" group-title="Movies",Yankee Doodle Pink
 http://ww.supercartoons.net/the-pink-panther/yankee-doodle-pink.mp4
 
