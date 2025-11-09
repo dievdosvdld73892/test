@@ -148,5 +148,5 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 http://d3s7x6kmqcnb6b.cloudfront.net/hls/T3HG3IA/5D8B7480E503/m.m3u8
 
 # Movies
-#EXTINF:-1 tvg-id="1312" tvg-logo="http://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg" group-title="Movies" type="movie",Movie Name 1 (2025)
+#EXTINF:-1 type="movie" tvg-id="1312" tvg-logo="http://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg" group-title="Movies",Movie Name 1 (2025)
 https://filesamples.com/samples/video/mkv/sample_1280x720_surfing_with_audio.mkv
