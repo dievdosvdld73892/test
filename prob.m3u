@@ -123,8 +123,6 @@ http://streamer3.qna.org.qa/148164621_live/148164621_296.sdp/playlist.m3u8
 
 
 # MUSIC & RADIO
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="MUSIC",Arabica TV
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="MUSIC",Arabica TV BU
 http://istream.binarywaves.com:8081/hls/arabica/arabicatv_1080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="MUSIC",OneFM
@@ -137,9 +135,12 @@ http://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8re
 http://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="MUSIC",One TV
 http://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="KURDISH",KurdMax Music TV Krd
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="MUSIC",KurdMax Music TV Krd
 http://6476e46b58f91.streamlock.net/music/MUSIC2402/chunklist_w615206496.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="MUSIC",M Plus
+http://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/c2462d2c-95be-4d8c-b840-2155cd2ae700/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="MUSIC",Arabica TV
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 # MUSIC & RADIO
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="Kids",T3HG3IA
