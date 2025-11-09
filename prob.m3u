@@ -156,3 +156,9 @@ http://dn721907.ca.archive.org/movie/items/TomAndJerryInASpanishTwist/RareLostCa
 http://publicdomainmovie.net/test/movie/TomAndJerryInASpanishTwist.mp4
 #EXTINF:-1 type="movie" tvg-id="23001" tvg-logo="https://image.tmdb.org/t/p/w342/dcPSm1rGEFdiEc7DaKz0t5kb66b.jpg" group-title="Action;Comedy",vod (21212)
 http://publicdomainmovie.net/vod/movies/TomAndJerryInASpanishTwist.mp4
+#EXTINF:-1 type="movie" tvg-id="23001" tvg-logo="https://image.tmdb.org/t/p/w342/dcPSm1rGEFdiEc7DaKz0t5kb66b.jpg" group-title="Action;Comedy",vod slash m (21212)
+http://publicdomainmovie.net/vod/m/TomAndJerryInASpanishTwist.mp4
+#EXTINF:-1 type="movie" tvg-id="23001" tvg-logo="https://image.tmdb.org/t/p/w342/dcPSm1rGEFdiEc7DaKz0t5kb66b.jpg" group-title="Action;Comedy",vod la hal (21212)
+http://publicdomainmovie.net/vod/TomAndJerryInASpanishTwist.mp4
+#EXTINF:-1 type="movie" tvg-id="23001" tvg-logo="https://image.tmdb.org/t/p/w342/dcPSm1rGEFdiEc7DaKz0t5kb66b.jpg" group-title="Action;Comedy",non (21212)
+http://publicdomainmovie.net/non/TomAndJerryInASpanishTwist.mp4
