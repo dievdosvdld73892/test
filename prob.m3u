@@ -170,17 +170,30 @@ http://publicdomainmovie.net/vod/m/TomAndJerryInASpanishTwist
 http://www.dailymotion.com/movie/x8uc3yc
 
 
+# Serien
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="AR_SERIES_DOCU", العلم والإيمان - الحلقة 116 (زهرة النار)
+http://ww.supercartoons.net/duck-dodgers/duck-codgers.mp4
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="AR_SERIES_DOCU", العلم والإيمان - الحلقة 23 (الديناصور)
+http://ww.supercartoons.net/duck-dodgers/duck-codgers.mp4
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="AR_SERIES_DOCU", العلم والإيمان - الحلقة 58 (ميلاد القرد حسونة)
+http://ww.supercartoons.net/duck-dodgers/duck-codgers.mp4
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="AR_SERIES_DOCU", العلم والإيمان - الحلقة 10 (ميكروسوب تكبير الزمن)
+http://ww.supercartoons.net/duck-dodgers/duck-codgers.mp4
+
 # Doku Video
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="AR_VID_DOCU", a
-https://ia802904.us.archive.org/4/items/nordarby_20161221/%D8%AF%20%20%20%D9%85%D8%B5%D8%B7%D9%81%D9%89%20%D9%85%D8%AD%D9%85%D9%88%D8%AF%20_%20%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC%20%D8%A7%D9%84%D8%B9%D9%84%D9%85%20%D9%88%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%20116%20%28%20%D8%B2%D9%87%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B1%20%29%20%D8%AC%D9%88%D8%AF%D8%A9%20%D8%B9%D8%A7%D9%84%D9%8A%D8%A9.mp4
+http://ww.supercartoons.net/duck-dodgers/duck-codgers.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="AR_VID_DOCU", b
-https://dn720308.ca.archive.org/0/items/nordarby_20161221/%D8%AF%20%20%20%D9%85%D8%B5%D8%B7%D9%81%D9%89%20%D9%85%D8%AD%D9%85%D9%88%D8%AF%20_%20%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC%20%D8%A7%D9%84%D8%B9%D9%84%D9%85%20%D9%88%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%2023%20%28%20%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D8%A7%D8%B5%D9%88%D8%B1%20%29%20%D8%AC%D9%88%D8%AF%D8%A9%20%D8%B9%D8%A7%D9%84%D9%8A%D8%A9.mp4
+http://ww.supercartoons.net/duck-dodgers/duck-codgers.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="AR_VID_DOCU", c
-https://dn720308.ca.archive.org/0/items/nordarby_20161221/%D8%AF%20%20%20%D9%85%D8%B5%D8%B7%D9%81%D9%89%20%D9%85%D8%AD%D9%85%D9%88%D8%AF%20_%20%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC%20%D8%A7%D9%84%D8%B9%D9%84%D9%85%20%D9%88%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%2058%20%28%20%D9%85%D9%8A%D9%84%D8%A7%D8%AF%20%D8%A7%D9%84%D9%82%D8%B1%D8%AF%20%D8%AD%D8%B3%D9%88%D9%86%D8%A9%20%29%20%D8%AC%D9%88%D8%AF%D8%A9%20%D8%B9%D8%A7%D9%84%D9%8A%D8%A9.mp4
+http://ww.supercartoons.net/duck-dodgers/duck-codgers.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="AR_VID_DOCU", d
-https://dn720308.ca.archive.org/0/items/nordarby_20161221/%D8%AF%20%20%D9%85%D8%B5%D8%B7%D9%81%D9%89%20%D9%85%D8%AD%D9%85%D9%88%D8%AF%20_%20%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC%20%D8%A7%D9%84%D8%B9%D9%84%D9%85%20%D9%88%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%2010%20%28%20%D9%85%D9%8A%D9%83%D8%B1%D8%B3%D9%88%D8%A8%20%D8%AA%D9%83%D8%A8%D9%8A%D8%B1%20%D8%A7%D9%84%D8%B2%D9%85%D9%86%20%29%20%D8%AC%D9%88%D8%AF%D8%A9%20%D8%B9%D8%A7%D9%84%D9%8A%D8%A9.mp4
+http://ww.supercartoons.net/duck-dodgers/duck-codgers.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="AR_VID_DOCU", e
-https://dn720308.ca.archive.org/0/items/nordarby_20161221
+http://ww.supercartoons.net/duck-dodgers/duck-codgers.mp4
 
 # Cartoon Video
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="C_Cartoon_Duck Dodgers",Duck Codgers
