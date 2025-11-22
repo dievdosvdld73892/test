@@ -2677,8 +2677,7 @@ http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174
 http://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us@SD" tvg-logo="http://i.imgur.com/h1ejU90.png" group-title="EN_MOVIES",MovieSphere by Lionsgate
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e
-#EXTINF:-1 tvg-id="MovifyKino.lv@SD" tvg-logo="http://i.imgur.com/XIk5EJN.png" group-title="EN_MOVIES" http-referrer="http://void.greenhosting.ru/",Movify Kino (576p)
-#EXTVLCOPT:http-referrer=http://void.greenhosting.ru/
+#EXTINF:-1 tvg-id="MovifyKino.lv@SD" tvg-logo="http://i.imgur.com/XIk5EJN.png" group-title="EN_MOVIES",Movify Kino (576p)
 http://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
 #EXTINF:-1 tvg-id="MyCinema.id@SD" tvg-logo="http://i.imgur.com/BTmcTQO.png" group-title="EN_MOVIES",My Cinema (1080p)
 http://210.210.155.37/uq2663/h/h192/index.m3u8
