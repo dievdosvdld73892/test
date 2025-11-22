@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="C_Cartoon_Duck Dodgers",Diva Delivery
 http://ww.supercartoons.net/duck-dodgers/diva-delivery.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",CNBC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="C_Cartoon_Duck fd",Diva sdf
 https://cnbc-live.akamaized.net/cnbc/master_1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",CNBC 2
@@ -20,9 +20,6 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERAL",Unknown Channel2
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",Alalam TV
-https://raw.elahmad.net/https://live2.alalam.ir/live/Alalam_low/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",Press TV
 https://live.presstv.ir/hls/ifilmar_4_482/index.m3u8
