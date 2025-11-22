@@ -18,25 +18,25 @@ https://live.presstv.ir/hls/ifilmar_4_482/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",Press TV
 https://live.presstv.ir/hls/ifilmar_5_482/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",Press TV
-https://live.presstv.ir/hls/ifilmar.m3u8?v=544857f1
+https://live.presstv.ir/hls/ifilmar.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",France 24 Arabic
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",France 24 Arabic
-https://www.elahmad.com/tv/m3u8/france24.m3u8?id=france24_ar
+https://www.elahmad.com/tv/m3u8/france24.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",Alaraby TV
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/chunks_video_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",Alaraby TV
-https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8?orig=arabic
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",TRT Arabic
 https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",TRT Arabic
-https://tv-trtarabi.medya.trt.com.tr/master.m3u8?v=544857f1
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",RT Arabic
 https://rt-arb.rttv.com/live/rtarab/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",RT Arabic
-https://rt-arb.rttv.com/live/rtarab/playlist.m3u8?v=544857f1
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",iNews
 https://live.i-news.tv/hls/1/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",iNews
