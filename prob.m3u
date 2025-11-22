@@ -2700,7 +2700,7 @@ http://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 http://ec3b4b7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X05FV0tNT1ZJRVNfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="NewFlix.ir@SD" tvg-logo="http://i.postimg.cc/3w2FPSrX/newflix.png" group-title="EN_Movies",Newflix
 http://newfhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="NextHD.py@SD" tvg-logo="http://i.imgur.com/c2rF3SS.png" group-title="Movies;Music",Next HD (480p)
+#EXTINF:-1 tvg-id="NextHD.py@SD" tvg-logo="http://i.imgur.com/c2rF3SS.png" group-title="EN_MOVIES",Next HD (480p)
 http://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="NollyAfrica.uk@SD" tvg-logo="http://i.imgur.com/IxtGpti.png" group-title="EN_Movies",Nolly Africa [Geo-blocked]
 http://amg02784-nollyafricafast-amg02784c1-cineverse-us-1124.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-cineverseus/playlist.m3u8
@@ -2846,7 +2846,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6272-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e8336d8-e46b-4f0f-86ff-ba6f9678d77a
 #EXTINF:-1 tvg-id="PravahPicture.in@HD" tvg-logo="http://i.imgur.com/T76S4x3.png" group-title="EN_Movies",Pravah Picture HD (1080p)
 http://live.dinesh29.com.np/stream/jiotvplus/starpravahpicturehd/master.m3u8
-#EXTINF:-1 tvg-id="Pro100TV.ru@SD" tvg-logo="http://i.imgur.com/YfQEflM.png" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV
+#EXTINF:-1 tvg-id="Pro100TV.ru@SD" tvg-logo="http://i.imgur.com/YfQEflM.png" group-title="EN_MOVIES",Pro100TV
 http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-id="QTV3.cn@SD" tvg-logo="http://www.tvchinese.net/uploads/tv/qdtv3.jpg" group-title="EN_Movies",QTV-3
 http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
