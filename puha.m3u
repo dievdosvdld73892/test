@@ -24,8 +24,6 @@ https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",France 24 Arabic
 https://www.elahmad.com/tv/m3u8/france24.m3u8?id=france24_ar
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",BBC Arabic
-https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",BBC Arabic
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
@@ -49,8 +47,6 @@ https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/chunks.m3u8?nimblesessionid=472737
 https://live.i-news.tv/hls/1/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",iNews
 https://live.i-news.tv/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERAL",Unknown Channel
-https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",Red TV
 https://live.kwikmotion.com/redtvlive/redtv.smil/redtvpublish/redtv_source/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",Red TV
