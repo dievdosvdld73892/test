@@ -5,121 +5,59 @@ http://games1.elahmad.xyz/tv766_www.elahmad.com_funoon/tracks-v1a1/mono.m3u8?tok
 http://games1.elahmad.xyz/tv766_www.elahmad.com_funoon/index.m3u8?token=face654bec0772e5a55b6ff754622d294cc3d577-4c2bf87d062ff24f446a2101866f882c-1763834410-1763823610
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",CNBC
 http://cnbc-live.akamaized.net/cnbc/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",CNBC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",CNBC 2
 http://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",Al Jazeera
 http://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",Al Jazeera
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",Al Jazeera 2
 http://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERAL",Unknown Channel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERAL",iran
 http://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERAL",Unknown Channel
-http://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",Alalam TV
 http://raw.elahmad.net/http://live2.alalam.ir/live/Alalam_low/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",Press TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",i film hd
 http://live.presstv.ir/hls/ifilmar_4_482/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",Press TV
-http://live.presstv.ir/hls/ifilmar_5_482/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",Press TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",i film
 http://live.presstv.ir/hls/ifilmar.m3u8?v=544857f1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",France 24 Arabic
 http://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",France 24 Arabic
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",France 24 Arabic 2
 http://www.elahmad.com/tv/m3u8/france24.m3u8?id=france24_ar
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",BBC Arabic
 http://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv10/b=1604032/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",BBC Arabic
-http://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",DW Arabic
 http://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",DW Arabic
-http://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",Alaraby TV
 http://live.kwikmotion.com/alaraby1live/alaraby_abr/chunks_video_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",Alaraby TV
-http://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8?orig=arabic
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",TRT Arabic
-http://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",TRT Arabic
-http://tv-trtarabi.medya.trt.com.tr/master.m3u8?v=544857f1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",RT Arabic
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",RT Arabic 2
 http://rt-arb.rttv.com/live/rtarab/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",RT Arabic
-http://rt-arb.rttv.com/live/rtarab/playlist.m3u8?v=544857f1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",Mix Belaraby
 http://games1.elahmad.xyz/tv766_www.elahmad.com_mixbelaraby/tracks-v1a1/mono.m3u8?token=d18d0cfea24292cb8745c48f128c3cefad25b650-e011b58523b512eeae14753ff7986e6c-1763834242-1763823442
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",Mix Belaraby
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",Mix Belaraby 2
 http://games1.elahmad.xyz/tv766_www.elahmad.com_mixbelaraby/index.m3u8?token=d18d0cfea24292cb8745c48f128c3cefad25b650-e011b58523b512eeae14753ff7986e6c-1763834242-1763823442
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",Ten TV
 http://games1.elahmad.xyz/tv766_www.elahmad.com_tentv/tracks-v1a1/mono.m3u8?token=9619757062c7d08c4c183367a6bd3a572437b672-47b990c5c5070ada7fef5fda0039e12f-1763834239-1763823439
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",Ten TV
-http://games1.elahmad.xyz/tv766_www.elahmad.com_tentv/index.m3u8?token=9619757062c7d08c4c183367a6bd3a572437b672-47b990c5c5070ada7fef5fda0039e12f-1763834239-1763823439
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Rotana Aflam Plus
-http://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/chunks.m3u8?nimblesessionid=472737519&token=demo
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",Al Hayat
 http://games2.elahmad.xyz/tv766_www.elahmad.com_alhayat_eg/tracks-v1a1/mono.m3u8?token=7a4a3423d98caacc89c694eb6076d88338e5d1e7-c34fd3cb595a83fbec6a3426d9a060e9-1763834196-1763823396
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",Al Hayat
-http://games2.elahmad.xyz/tv766_www.elahmad.com_alhayat_eg/index.m3u8?token=7a4a3423d98caacc89c694eb6076d88338e5d1e7-c34fd3cb595a83fbec6a3426d9a060e9-1763834196-1763823396
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT",Nile Comedy
-http://games2.elahmad.xyz/tv766_www.elahmad.com_nile_comedy/tracks-v1a1/mono.m3u8?token=69a09778d4f0cad2732b47f60ba914c28b2fe02f-d7bf34a7330d415d87a5c013ad71786c-1763834189-1763823389
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT",Nile Comedy
-http://games2.elahmad.xyz/tv766_www.elahmad.com_nile_comedy/index.m3u8?token=69a09778d4f0cad2732b47f60ba914c28b2fe02f-d7bf34a7330d415d87a5c013ad71786c-1763834189-1763823389
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",Nile Sport
 http://games2.elahmad.xyz/tv766_www.elahmad.com_nile_sport/tracks-v1a1/mono.m3u8?token=28ea2b7370fe1f80ebb3080b9ac82ffb2707d1c0-abb02e475d819e8a3d86339b9b9160b0-1763834185-1763823385
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",Nile Sport
-http://games2.elahmad.xyz/tv766_www.elahmad.com_nile_sport/index.m3u8?token=28ea2b7370fe1f80ebb3080b9ac82ffb2707d1c0-abb02e475d819e8a3d86339b9b9160b0-1763834185-1763823385
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIFESTYLE",Nile Life
 http://games2.elahmad.xyz/tv766_www.elahmad.com_nile_life/tracks-v1a1/mono.m3u8?token=3a72f8ea1ec3a895e0d3f6291e9a457fd9b77bec-457bfedf5acc84282cecaca76309e3dc-1763834183-1763823383
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIFESTYLE",Nile Life
-http://games2.elahmad.xyz/tv766_www.elahmad.com_nile_life/index.m3u8?token=3a72f8ea1ec3a895e0d3f6291e9a457fd9b77bec-457bfedf5acc84282cecaca76309e3dc-1763834183-1763823383
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURE",Nile Culture
 http://games2.elahmad.xyz/tv766_www.elahmad.com_nile_culture/tracks-v1a1/mono.m3u8?token=2dedae12e65de64f9905be84d6276a0a335cf97d-c3e0b14dea7d7d46fcd2a5f78afd77db-1763834179-1763823379
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURE",Nile Culture
-http://games2.elahmad.xyz/tv766_www.elahmad.com_nile_culture/index.m3u8?token=2dedae12e65de64f9905be84d6276a0a335cf97d-c3e0b14dea7d7d46fcd2a5f78afd77db-1763834179-1763823379
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FAMILY",Nile Family
 http://games2.elahmad.xyz/tv766_www.elahmad.com_nile_family/tracks-v1a1/mono.m3u8?token=87b5e0f2795034a27898656cbd15908d6b2cf584-dece76c30f9140dec1406cfc67347e2b-1763834171-1763823371
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FAMILY",Nile Family
-http://games2.elahmad.xyz/tv766_www.elahmad.com_nile_family/index.m3u8?token=87b5e0f2795034a27898656cbd15908d6b2cf584-dece76c30f9140dec1406cfc67347e2b-1763834171-1763823371
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Nile Cinema
 http://games2.elahmad.xyz/tv766_www.elahmad.com_nile_cinema/tracks-v1a1/mono.m3u8?token=7ff9d0457c0d678bebfbdd2d1cf2e847aca12c62-424b80bbbb1627351028516e3b7cea66-1763834169-1763823369
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Nile Cinema
-http://games2.elahmad.xyz/tv766_www.elahmad.com_nile_cinema/index.m3u8?token=7ff9d0457c0d678bebfbdd2d1cf2e847aca12c62-424b80bbbb1627351028516e3b7cea66-1763834169-1763823369
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRAMA",Nile Drama
 http://games2.elahmad.xyz/tv766_www.elahmad.com_nile_drama/tracks-v1a1/mono.m3u8?token=3ba514e3d9279b79dd84f34058a7a57607a1582d-43bc9fce6634634090f6b040df1b9cd1-1763834167-1763823367
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRAMA",Nile Drama
-http://games2.elahmad.xyz/tv766_www.elahmad.com_nile_drama/index.m3u8?token=3ba514e3d9279b79dd84f34058a7a57607a1582d-43bc9fce6634634090f6b040df1b9cd1-1763834167-1763823367
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",ON TV
 http://games1.elahmad.xyz/tv766_www.elahmad.com_ontv/tracks-v1a1/mono.m3u8?token=ad919fefb47b9b8a3076bcc355a21aa2045092c6-0f5aa8f8bd40f50e2a6bbb5260f21e1e-1763834161-1763823361
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",ON TV
-http://games1.elahmad.xyz/tv766_www.elahmad.com_ontv/index.m3u8?token=ad919fefb47b9b8a3076bcc355a21aa2045092c6-0f5aa8f8bd40f50e2a6bbb5260f21e1e-1763834161-1763823361
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",iNews
 http://live.i-news.tv/hls/1/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS",iNews
-http://live.i-news.tv/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERAL",Unknown Channel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERAL",i24
 http://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERAL",Unknown Channel
-http://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8?__nn__=5476555825001&hdnea=st=1763821800~exp=1763825400~acl=/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/*~hmac=f5f95c0654a81ff2f5bed1c1c143009bcd22d90998eef5da0e0784f013238d5d
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",Red TV
 http://live.kwikmotion.com/redtvlive/redtv.smil/redtvpublish/redtv_source/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",Red TV
-http://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERAL",Unknown Channel
-http://fastly.live.brightcove.com/6378439181112/ap-south-1/6313884884001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWR2d3RnLmVncmVzcy5qYXYzemwiLCJhY2NvdW50X2lkIjoiNjMxMzg4NDg4NDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MzEzODg0ODg0MDAxIl0sImp0aSI6IjYzNzg0MzkxODExMTIifQ.EdlNOMQrd1QZ3Y_9mU1f4eKS3spc8eU5sIlXnWLbgmY/chunklist__audio0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERAL",Unknown Channel
-http://fastly.live.brightcove.com/6378439181112/ap-south-1/6313884884001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWR2d3RnLmVncmVzcy5qYXYzemwiLCJhY2NvdW50X2lkIjoiNjMxMzg4NDg4NDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MzEzODg0ODg0MDAxIl0sImp0aSI6IjYzNzg0MzkxODExMTIifQ.EdlNOMQrd1QZ3Y_9mU1f4eKS3spc8eU5sIlXnWLbgmY/chunklist__2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERAL",Unknown Channel
-http://fastly.live.brightcove.com/6378439181112/ap-south-1/6313884884001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWR2d3RnLmVncmVzcy5qYXYzemwiLCJhY2NvdW50X2lkIjoiNjMxMzg4NDg4NDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MzEzODg0ODg0MDAxIl0sImp0aSI6IjYzNzg0MzkxODExMTIifQ.EdlNOMQrd1QZ3Y_9mU1f4eKS3spc8eU5sIlXnWLbgmY/playlist-hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERAL",Elahmad Playlist
-http://www.elahmad.com/tv/playlist.m3u8?v=2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Rotana Aflam Plus
-http://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/chunks.m3u8?nimblesessionid=472735577&token=demo
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT",Rotana Comedy
-http://tgn.bozztv.com/gin-36bay3/ga-rotanacomedy/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1310395627&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNSAyOjU5OjM5IFBNJmhhc2hfdmFsdWU9eHZIdm9rbmhJTjdDYVFONm94cGt5UT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ENTERTAINMENT",Rotana Comedy
 http://tgn.bozztv.com/gin-36bay3/ga-rotanacomedy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNSAyOjU5OjM5IFBNJmhhc2hfdmFsdWU9eHZIdm9rbmhJTjdDYVFONm94cGt5UT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRAMA",Rotana Drama
-http://tgn.bozztv.com/gin-36bay3/ga-rotanadrama/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1310395572&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNSAyOjU5OjM1IFBNJmhhc2hfdmFsdWU9bDh4bHc5YklSbityMzNwZm9kdjdCdz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DRAMA",Rotana Drama
-http://tgn.bozztv.com/gin-36bay3/ga-rotanadrama/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNSAyOjU5OjM1IFBNJmhhc2hfdmFsdWU9bDh4bHc5YklSbityMzNwZm9kdjdCdz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI5
