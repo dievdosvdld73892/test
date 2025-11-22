@@ -18,6 +18,9 @@ http://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/ind
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="ARABIC_MOVIES",MBC Maraya SA
 http://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="ARABIC_MOVIES",Syria TV 2
+http://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="ARABIC_MOVIES",Al Jadeed
 http://185.9.2.18/chid_391/mono.m3u8
 
@@ -120,9 +123,6 @@ http://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="ARABIC_NEWS",Syria TV
 http://live.kwikmotion.com/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks_dvr.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="ARABIC_NEWS",Syria TV 2
-http://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="ARABIC_NEWS",Alaraby Alyaum
 http://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
@@ -2477,7 +2477,7 @@ http://87.255.35.150:18296
 http://103.182.170.32:8888/play/a01o
 #EXTINF:-1 tvg-id="ColorsKannadaCinema.in@SD" tvg-logo="http://i.imgur.com/gNbA3NO.png" group-title="EN_Movies",Colors Kannada Cinema (576p)
 http://87.255.35.150:18940
-#EXTINF:-1 tvg-id="CosmosTv.ar@SD" tvg-logo="http://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Movies;News",Cosmos Tv (720p)
+#EXTINF:-1 tvg-id="CosmosTv.ar@SD" tvg-logo="http://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="EN_MOVIES",Cosmos Tv (720p)
 http://canaletaplus.com:3922/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Crave1.ca@SD" tvg-logo="http://i.imgur.com/ZkRQ0r1.png" group-title="EN_Movies",Crave 1
 http://fl1.moveonjoy.com/CRAVE_1/index.m3u8
@@ -2587,7 +2587,7 @@ http://live.presstv.ir/hls/ifilmar.m3u8
 http://live.presstv.ir/hls/ifilmen.m3u8
 #EXTINF:-1 tvg-id="iFilmPersian.ir@SD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="EN_Movies",iFilm Persian
 http://live.presstv.ir/hls/ifilmfa.m3u8
-#EXTINF:-1 tvg-id="IndywoodTV.in@SD" tvg-logo="http://i.ibb.co/jT3NCPp/logo-tv.png" group-title="Movies;News",Indywood TV (720p)
+#EXTINF:-1 tvg-id="IndywoodTV.in@SD" tvg-logo="http://i.ibb.co/jT3NCPp/logo-tv.png" group-title="EN_MOVIES",Indywood TV (720p)
 http://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 #EXTINF:-1 tvg-id="ItageTV.ng@SD" tvg-logo="http://i.imgur.com/FP1aUPw.jpg" group-title="EN_Movies",Itage TV
 http://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
