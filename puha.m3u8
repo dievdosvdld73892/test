@@ -9,9 +9,9 @@ http://cnbc-live.akamaized.net/cnbc/master_1080p.m3u8
 http://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERAL",iran
 http://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC_NEWS",i film hd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC_MOVIES",i film hd
 http://live.presstv.ir/hls/ifilmar_4_482/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC_NEWS",i film
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC_MOVIES",i film
 http://live.presstv.ir/hls/ifilmar.m3u8?v=544857f1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC_NEWS",France 24 Arabic
 http://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
@@ -46,7 +46,7 @@ http://games2.elahmad.xyz/tv766_www.elahmad.com_nile_drama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC_MOVIES",ON TV
 http://games1.elahmad.xyz/tv766_www.elahmad.com_ontv/tracks-v1a1/mono.m3u8?token=ad919fefb47b9b8a3076bcc355a21aa2045092c6-0f5aa8f8bd40f50e2a6bbb5260f21e1e-1763834161-1763823361
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC_NEWS",iARABIC_NEWS
-http://live.i-ARABIC_NEWS.tv/hls/1/stream.m3u8
+http://live.i-NEWS.tv/hls/1/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC_NEWS",i24
 http://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC_MOVIES",Red TV
