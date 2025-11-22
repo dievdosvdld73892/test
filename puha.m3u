@@ -55,3 +55,6 @@ https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/53
 https://live.kwikmotion.com/redtvlive/redtv.smil/redtvpublish/redtv_source/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",Red TV
 https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARABIC",ten tv
+https://games1.elahmad.xyz/tv766_www.elahmad.com_tentv/index.m3u8
+
